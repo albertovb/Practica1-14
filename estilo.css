@@ -1,0 +1,17 @@
+@charset "utf-8";
+body{
+    background-color: rgb(219, 190, 152);
+}
+h1{
+    color: rgb(71, 6, 6);
+    text-align: center;
+}
+h2{
+    color: rgb(124, 2, 2);
+}
+li, ul, ol{
+    color: rgb(204, 103, 63);
+}
+#titulo{
+    color: black;
+}
